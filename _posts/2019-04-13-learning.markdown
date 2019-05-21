@@ -6,15 +6,17 @@ categories: jekyll update
 ---
 
 What I learnt:
-	1: Git 
-	2: GitHub 
-	3: Jekyll 
-1: Git: 
+  * Git
+  * GitHub 
+  * Jekyll 
+
+
+### 1) Git: 
 	In Git, I learnt how to initialise a repository, clone a repository, creating and merging branches, pushing and pulling changes etc.
 
-2: GitHub: 
+### 2) GitHub: 
 	In GitHub, I learnt how to fork a repository, opening Pull requests, how commits works, the need of Version control System and Remote repository.
 
-3: Jekyll: 
+### 3) Jekyll: 
 	This was a fresh concept for me and this is the first time I came to know about Jekyll and how it works.
 	I learnt creating a static webpage Posts, adding it to repository and rebuilding the site.
