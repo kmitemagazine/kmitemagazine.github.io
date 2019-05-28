@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-28T21:44:43+05:30</updated><id>/feed.xml</id><title type="html">kMITRA e-Magazine</title><subtitle>The official e-magazine for Keshav Memorial Institute of Technology</subtitle><entry><title type="html">Minutes of the meeting</title><link href="/2019/03/23/Minutes-of-the-meeting.html" rel="alternate" type="text/html" title="Minutes of the meeting" /><published>2019-03-23T00:00:00+05:30</published><updated>2019-03-23T00:00:00+05:30</updated><id>/2019/03/23/Minutes-of-the-meeting</id><content type="html" xml:base="/2019/03/23/Minutes-of-the-meeting.html">&lt;ol&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-28T22:15:18+05:30</updated><id>/feed.xml</id><title type="html">kMITRA e-Magazine</title><subtitle>The official e-magazine for Keshav Memorial Institute of Technology</subtitle><entry><title type="html">Minutes of the meeting</title><link href="/2019/03/23/Minutes-of-the-meeting.html" rel="alternate" type="text/html" title="Minutes of the meeting" /><published>2019-03-23T00:00:00+05:30</published><updated>2019-03-23T00:00:00+05:30</updated><id>/2019/03/23/Minutes-of-the-meeting</id><content type="html" xml:base="/2019/03/23/Minutes-of-the-meeting.html">&lt;ol&gt;
   &lt;li&gt;Introduction of new first year recruits.&lt;/li&gt;
   &lt;li&gt;Discussion of new article topics for April edition.&lt;/li&gt;
   &lt;li&gt;Assignment of mentors to mentees and mentees to mentors.&lt;/li&gt;
@@ -24,7 +24,64 @@
       &lt;li&gt;WordPress&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="minutes" /><summary type="html">Agenda: Orientation commenced</summary></entry><entry><title type="html">Minutes of the meeting</title><link href="/2018/09/12/Minutes-of-the-meeting.html" rel="alternate" type="text/html" title="Minutes of the meeting" /><published>2018-09-12T00:00:00+05:30</published><updated>2018-09-12T00:00:00+05:30</updated><id>/2018/09/12/Minutes-of-the-meeting</id><content type="html" xml:base="/2018/09/12/Minutes-of-the-meeting.html">&lt;ol&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="minutes" /><summary type="html">Agenda: Orientation commenced</summary></entry><entry><title type="html">Minutes of the meeting</title><link href="/2019/02/25/Minutes-of-the-meeting.html" rel="alternate" type="text/html" title="Minutes of the meeting" /><published>2019-02-25T00:00:00+05:30</published><updated>2019-02-25T00:00:00+05:30</updated><id>/2019/02/25/Minutes-of-the-meeting</id><content type="html" xml:base="/2019/02/25/Minutes-of-the-meeting.html">&lt;h3 id=&quot;agenda-first-years-recruitment-orientation&quot;&gt;Agenda: First Years recruitment orientation&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Date 12th March - Orientation&lt;/li&gt;
+  &lt;li&gt;Flow of events
+    &lt;ul&gt;
+      &lt;li&gt;Introduction&lt;/li&gt;
+      &lt;li&gt;Editors&lt;/li&gt;
+      &lt;li&gt;Writers&lt;/li&gt;
+      &lt;li&gt;Developers&lt;/li&gt;
+      &lt;li&gt;Designers&lt;/li&gt;
+      &lt;li&gt;PR&lt;/li&gt;
+      &lt;li&gt;Perks&lt;/li&gt;
+      &lt;li&gt;Testimonial&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Order of classes (Refer Table 1)&lt;/li&gt;
+  &lt;li&gt;Obtain previous orientations presentation.&lt;/li&gt;
+  &lt;li&gt;Prepare scripts timing to 2 minutes.&lt;/li&gt;
+  &lt;li&gt;Send SMS through KMIT handle, Netra, CR groups to first years&lt;/li&gt;
+  &lt;li&gt;Topics for writers test
+    &lt;ul&gt;
+      &lt;li&gt;If you were a food item what would you be and why?&lt;/li&gt;
+      &lt;li&gt;Review&lt;/li&gt;
+      &lt;li&gt;Pulwama Opecl&lt;/li&gt;
+      &lt;li&gt;Short fiction ending with “and I was stuck in the moment 100 years from now”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;table-1&quot;&gt;Table 1:&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Batch&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DH1&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;DH2&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;CSE A, B&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;CSE C, D&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;CSE F&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;CSE G&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;IT, EIE&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;ECE A, B&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="minutes" /><summary type="html">Agenda: First Years recruitment orientation</summary></entry><entry><title type="html">Minutes of the meeting</title><link href="/2018/09/12/Minutes-of-the-meeting.html" rel="alternate" type="text/html" title="Minutes of the meeting" /><published>2018-09-12T00:00:00+05:30</published><updated>2018-09-12T00:00:00+05:30</updated><id>/2018/09/12/Minutes-of-the-meeting</id><content type="html" xml:base="/2018/09/12/Minutes-of-the-meeting.html">&lt;ol&gt;
   &lt;li&gt;No particular theme for the edition&lt;/li&gt;
   &lt;li&gt;One of the articles/topics covers ‘The quirky habits of students during exam’&lt;/li&gt;
   &lt;li&gt;Cover
