@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-28T23:38:24+05:30</updated><id>/feed.xml</id><title type="html">kMITRA e-Magazine</title><subtitle>The official e-magazine for Keshav Memorial Institute of Technology</subtitle><entry><title type="html">Adding new accounts</title><link href="/2019/04/01/adding-new-accounts.html" rel="alternate" type="text/html" title="Adding new accounts" /><published>2019-04-01T22:12:15+05:30</published><updated>2019-04-01T22:12:15+05:30</updated><id>/2019/04/01/adding-new-accounts</id><content type="html" xml:base="/2019/04/01/adding-new-accounts.html">&lt;ol&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-12T16:36:12+05:30</updated><id>/feed.xml</id><title type="html">kMITRA e-Magazine</title><subtitle>The official e-magazine for Keshav Memorial Institute of Technology</subtitle><entry><title type="html">Backing up child theme</title><link href="/2019/06/12/Backing-up-the-child-theme.html" rel="alternate" type="text/html" title="Backing up child theme" /><published>2019-06-12T00:00:00+05:30</published><updated>2019-06-12T00:00:00+05:30</updated><id>/2019/06/12/Backing-up-the-child-theme</id><content type="html" xml:base="/2019/06/12/Backing-up-the-child-theme.html">&lt;ol&gt;
+  &lt;li&gt;Login using your credentials at &lt;a href=&quot;http://kmit.in/emagazine/wp-login.php?redirect_to=http%3A%2F%2Fkmit.in%2Femagazine%2Fwp-admin%2F&amp;amp;reauth=1&quot;&gt;kmit.in/emagazine/wp-admin/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Go to WP File Manager at bottom left corner&lt;/li&gt;
+  &lt;li&gt;Browse into emagazine/wp-content/themes/&lt;/li&gt;
+  &lt;li&gt;Press right click on baskerville-child, press download and save the .zip file&lt;/li&gt;
+  &lt;li&gt;Fork the &lt;a href=&quot;https://github.com/kmitemagazine/baskerville-child-backup&quot;&gt;baskerville-child-backup&lt;/a&gt; onto your profile.&lt;/li&gt;
+  &lt;li&gt;Clone your fork (For instance, I would enter git clone &lt;a href=&quot;https://github.com/kmitemagazine/baskerville-child-backup&quot;&gt;https://github.com/iambrj/baskerville-child-backup&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Enter the baskerville-child directory and replace the .zip file present with the one downloaded in step 4&lt;/li&gt;
+  &lt;li&gt;Make a new commit with mentioning month of backup (for instance I entered “June backup” for the latest commit)&lt;/li&gt;
+  &lt;li&gt;Push changes onto github using &lt;code class=&quot;highlighter-rouge&quot;&gt;git push origin master&lt;/code&gt; and open a pull request.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Login using your credentials at kmit.in/emagazine/wp-admin/ Go to WP File Manager at bottom left corner Browse into emagazine/wp-content/themes/ Press right click on baskerville-child, press download and save the .zip file Fork the baskerville-child-backup onto your profile. Clone your fork (For instance, I would enter git clone https://github.com/iambrj/baskerville-child-backup) Enter the baskerville-child directory and replace the .zip file present with the one downloaded in step 4 Make a new commit with mentioning month of backup (for instance I entered “June backup” for the latest commit) Push changes onto github using git push origin master and open a pull request.</summary></entry><entry><title type="html">Using Jekyll</title><link href="/2019/06/12/Using-Jekyll.html" rel="alternate" type="text/html" title="Using Jekyll" /><published>2019-06-12T00:00:00+05:30</published><updated>2019-06-12T00:00:00+05:30</updated><id>/2019/06/12/Using-Jekyll</id><content type="html" xml:base="/2019/06/12/Using-Jekyll.html">&lt;ol&gt;
+  &lt;li&gt;Fork the &lt;a href=&quot;https://github.com/kmitemagazine/kmitemagazine.github.io&quot;&gt;kmitemagazine.github.io&lt;/a&gt; repository onto your profile. For instance, I would fork it onto my profile, “iambrj”.&lt;/li&gt;
+  &lt;li&gt;Open up a terminal/command prompt, create a temporary directory (say temp) and cd into it.&lt;/li&gt;
+  &lt;li&gt;Enter &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone &amp;lt;url to forked repo&amp;gt;&lt;/code&gt;. For instance, I would enter ‘git clone &lt;a href=&quot;https://github.com/iambrj/kmitemagazine.github.io&quot;&gt;https://github.com/iambrj/kmitemagazine.github.io&lt;/a&gt;’. You should now have a directory named ‘kmitemagazine.github.io’ inside the temp directory. If you do not, delete everything and start over again. Rename this directory to &lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Once again, enter &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone &amp;lt;url to forked repo&amp;gt;&lt;/code&gt;. Now your temp directory should have two subdirectories, ‘kmitemagazine.github.io’ (which you just cloned) and ‘_site’ (which you cloned and renamed in step 3).&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Change into ‘kmitemagazine.github.io’ subdirectory and enter &lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout sources&lt;/code&gt;. The terminal should say something along the lines&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Switched to a new branch ‘sources’&lt;/li&gt;
+      &lt;li&gt;Branch ‘sources’ set up to track remote branch ‘sources’ from ‘origin’&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Move the _site subdirectory into current directory using &lt;code class=&quot;highlighter-rouge&quot;&gt;mv ../_site ./&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Add a new blog post. See this for help regarding writing a blog post. Please use markdown only.&lt;/li&gt;
+  &lt;li&gt;After writing a blog post, change to temp/kmitemagazine.github.io directory and enter &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll build&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;While in “temp/kmitemagazine.github.io” directory, add and commit new blog post to git using “git add _posts/YEAR-MONTH-DAY-title.markdown” and &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -m “add new blog post etc“&lt;/code&gt;. Please use a more descriptive commit message.&lt;/li&gt;
+  &lt;li&gt;Now enter the _site directory, add and commit all changes using &lt;code class=&quot;highlighter-rouge&quot;&gt;git add *&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -m “added new blog post etc”&lt;/code&gt;. Once again, use a descriptive commit message.&lt;/li&gt;
+  &lt;li&gt;Push your local changes onto your fork of the repository using &lt;code class=&quot;highlighter-rouge&quot;&gt;git push origin sources&lt;/code&gt; (while in temp/kmitemagazine.github.io) and &lt;code class=&quot;highlighter-rouge&quot;&gt;git push origin master&lt;/code&gt; (while in temp/kmitemagazine.github.io/_site)&lt;/li&gt;
+  &lt;li&gt;Go to your fork on github and press on “New pull request”. You’ll have to open two pull requests, first with both base and compare set to sources and second with both set to master. Sit back and wait for someone with write access to review and merge it.&lt;/li&gt;
+  &lt;li&gt;If you should get stuck at any point, before asking a question make sure you have followed all the instructions carefully. I suggest you delete whatever you have worked on and start over again before asking a question.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Some links you may find useful&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;My &lt;a href=&quot;https://github.com/iambrj/kmitemagazine.github.io&quot;&gt;fork&lt;/a&gt; of the repo (step 3). You’ll have something similar if you do everything correctly&lt;/li&gt;
+  &lt;li&gt;My commits after updating &lt;a href=&quot;https://github.com/iambrj/kmitemagazine.github.io/commit/f44b3aa391ddea099bc1a3d809a94192c0ae5cbc&quot;&gt;master&lt;/a&gt; and &lt;a href=&quot;https://github.com/iambrj/kmitemagazine.github.io/commit/17658ea971964341717de7a2e02db2a245ec5f8f&quot;&gt;sources&lt;/a&gt; branches respectively (after steps 9, 10 &amp;amp; 11). Your diff files should look the same if you’ve followed the instructions correctly.&lt;/li&gt;
+  &lt;li&gt;Pull request &lt;a href=&quot;https://github.com/kmitemagazine/kmitemagazine.github.io/pull/13&quot;&gt;#13&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/kmitemagazine/kmitemagazine.github.io/pull/14&quot;&gt;#14&lt;/a&gt; - I opened these to merge my master branch and sources branch respectively (step 12). If you have followed all the instructions, your pull requests should look like this.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/posts/&quot;&gt;Tutorial for writing Jekyll posts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://education.github.com/git-cheat-sheet-education.pdf&quot;&gt;A useful cheatsheet for git&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Fork the kmitemagazine.github.io repository onto your profile. For instance, I would fork it onto my profile, “iambrj”. Open up a terminal/command prompt, create a temporary directory (say temp) and cd into it. Enter git clone &amp;lt;url to forked repo&amp;gt;. For instance, I would enter ‘git clone https://github.com/iambrj/kmitemagazine.github.io’. You should now have a directory named ‘kmitemagazine.github.io’ inside the temp directory. If you do not, delete everything and start over again. Rename this directory to _site Once again, enter git clone &amp;lt;url to forked repo&amp;gt;. Now your temp directory should have two subdirectories, ‘kmitemagazine.github.io’ (which you just cloned) and ‘_site’ (which you cloned and renamed in step 3). Change into ‘kmitemagazine.github.io’ subdirectory and enter git checkout sources. The terminal should say something along the lines</summary></entry><entry><title type="html">Adding new accounts</title><link href="/2019/04/01/adding-new-accounts.html" rel="alternate" type="text/html" title="Adding new accounts" /><published>2019-04-01T22:12:15+05:30</published><updated>2019-04-01T22:12:15+05:30</updated><id>/2019/04/01/adding-new-accounts</id><content type="html" xml:base="/2019/04/01/adding-new-accounts.html">&lt;ol&gt;
   &lt;li&gt;You must have received an email with login details. Go to
 http://kmit.in/emagazine/wp-admin/, enter those details and change your
 password to something more secure.&lt;/li&gt;
@@ -134,29 +174,4 @@ group, someone will get to you.&lt;/p&gt;</content><author><name></name></author
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Collaborating and suspense article while interviewing students&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="minutes" /><summary type="html">No particular theme for the edition One of the articles/topics covers ‘The quirky habits of students during exam’ Cover Suits Silicon Valley Marvels Jessica Jones Collaborating and suspense article while interviewing students</summary></entry><entry><title type="html">Minutes of the meeting</title><link href="/2018/08/14/minutes-of-the-meeting.html" rel="alternate" type="text/html" title="Minutes of the meeting" /><published>2018-08-14T22:12:15+05:30</published><updated>2018-08-14T22:12:15+05:30</updated><id>/2018/08/14/minutes-of-the-meeting</id><content type="html" xml:base="/2018/08/14/minutes-of-the-meeting.html">&lt;ol&gt;
-  &lt;li&gt;March edition retrospectin and inculcation of uncovered topics&lt;/li&gt;
-  &lt;li&gt;Oscar’s edition&lt;/li&gt;
-  &lt;li&gt;kMITRA is covering the Oscars, Grammys and KMIT Evening. We have 2
-political/social op-eds&lt;/li&gt;
-  &lt;li&gt;Oscars:
- We are going to review all BEST PICTURE nominated movies and make a case for
- why it should win at the Oscars. We will also cover other categories like
- Best Animation, Best Foreign Film etc which will be an overview of that
- category.&lt;/li&gt;
-  &lt;li&gt;Grammys:
- We are going to cover the Grammys as well&lt;/li&gt;
-  &lt;li&gt;KMIT Evening
- We will be covering eve within two articles
-    &lt;ul&gt;
-      &lt;li&gt;Behind the scenes&lt;/li&gt;
-      &lt;li&gt;Main event&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Op-eds
-    &lt;ul&gt;
-      &lt;li&gt;Politicization of awards&lt;/li&gt;
-      &lt;li&gt;Triple Talaq&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="minutes" /><summary type="html">March edition retrospectin and inculcation of uncovered topics Oscar’s edition kMITRA is covering the Oscars, Grammys and KMIT Evening. We have 2 political/social op-eds Oscars: We are going to review all BEST PICTURE nominated movies and make a case for why it should win at the Oscars. We will also cover other categories like Best Animation, Best Foreign Film etc which will be an overview of that category. Grammys: We are going to cover the Grammys as well KMIT Evening We will be covering eve within two articles Behind the scenes Main event Op-eds Politicization of awards Triple Talaq</summary></entry></feed>
+&lt;/ol&gt;</content><author><name></name></author><category term="minutes" /><summary type="html">No particular theme for the edition One of the articles/topics covers ‘The quirky habits of students during exam’ Cover Suits Silicon Valley Marvels Jessica Jones Collaborating and suspense article while interviewing students</summary></entry></feed>
