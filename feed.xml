@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-07-13T19:25:23+05:30</updated><id>/feed.xml</id><title type="html">kMITRA e-Magazine</title><subtitle>The official e-magazine for Keshav Memorial Institute of Technology</subtitle><entry><title type="html">Creating a new issue</title><link href="/2019/07/11/Creating-a-new-issue.html" rel="alternate" type="text/html" title="Creating a new issue" /><published>2019-07-11T00:00:00+05:30</published><updated>2019-07-11T00:00:00+05:30</updated><id>/2019/07/11/Creating-a-new-issue</id><content type="html" xml:base="/2019/07/11/Creating-a-new-issue.html">&lt;ol&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-07-14T12:04:23+05:30</updated><id>/feed.xml</id><title type="html">kMITRA e-Magazine</title><subtitle>The official e-magazine for Keshav Memorial Institute of Technology</subtitle><entry><title type="html">Creating a new article</title><link href="/2019/07/14/Creating-a-new-article.html" rel="alternate" type="text/html" title="Creating a new article" /><published>2019-07-14T00:00:00+05:30</published><updated>2019-07-14T00:00:00+05:30</updated><id>/2019/07/14/Creating-a-new-article</id><content type="html" xml:base="/2019/07/14/Creating-a-new-article.html">&lt;ol&gt;
+  &lt;li&gt;Go to dashboard -&amp;gt; Articles -&amp;gt; Add New Article&lt;/li&gt;
+  &lt;li&gt;Hit publish for every article&lt;/li&gt;
+  &lt;li&gt;Make sure issue number is set&lt;/li&gt;
+  &lt;li&gt;Make sure format is standard&lt;/li&gt;
+  &lt;li&gt;Make sure category is set&lt;/li&gt;
+  &lt;li&gt;Make sure post attribtues is zero&lt;/li&gt;
+  &lt;li&gt;Make sure feature image is set (resolution 1250 * 700)&lt;/li&gt;
+  &lt;li&gt;Make sure authors are set&lt;/li&gt;
+  &lt;li&gt;Ignore custom fields and trackbacks
+    &lt;ul&gt;
+      &lt;li&gt;Feature idea: Create NLP extractor for article tags, focus keyphrases&lt;/li&gt;
+      &lt;li&gt;Feature idea: excerpt using site redesign&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Go to dashboard -&amp;gt; Articles -&amp;gt; Add New Article Hit publish for every article Make sure issue number is set Make sure format is standard Make sure category is set Make sure post attribtues is zero Make sure feature image is set (resolution 1250 * 700) Make sure authors are set Ignore custom fields and trackbacks Feature idea: Create NLP extractor for article tags, focus keyphrases Feature idea: excerpt using site redesign</summary></entry><entry><title type="html">Logging in</title><link href="/2019/07/14/Logging-in.html" rel="alternate" type="text/html" title="Logging in" /><published>2019-07-14T00:00:00+05:30</published><updated>2019-07-14T00:00:00+05:30</updated><id>/2019/07/14/Logging-in</id><content type="html" xml:base="/2019/07/14/Logging-in.html">&lt;ol&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;http://kmit.in/emagazine/wp-admin&quot;&gt;login page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Enter your username and Password&lt;/li&gt;
+  &lt;li&gt;Click Log in.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Go to login page Enter your username and Password Click Log in.</summary></entry><entry><title type="html">Creating a new issue</title><link href="/2019/07/11/Creating-a-new-issue.html" rel="alternate" type="text/html" title="Creating a new issue" /><published>2019-07-11T00:00:00+05:30</published><updated>2019-07-11T00:00:00+05:30</updated><id>/2019/07/11/Creating-a-new-issue</id><content type="html" xml:base="/2019/07/11/Creating-a-new-issue.html">&lt;ol&gt;
   &lt;li&gt;Go to dashboard -&amp;gt; Articles -&amp;gt; Issues&lt;/li&gt;
   &lt;li&gt;Set name to &lt;code class=&quot;highlighter-rouge&quot;&gt;Issue [number]&lt;/code&gt; and slug to &lt;code class=&quot;highlighter-rouge&quot;&gt;issue-[number]&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Hit “Add New Issues”&lt;/li&gt;
@@ -140,28 +159,4 @@ group, someone will get to you.&lt;/p&gt;</content><author><name></name></author
       &lt;td style=&quot;text-align: right&quot;&gt;ECE A, B&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="minutes" /><summary type="html">Agenda: First Years recruitment orientation</summary></entry><entry><title type="html">Minutes of the meeting</title><link href="/2019/02/11/Minutes-of-the-meeting.html" rel="alternate" type="text/html" title="Minutes of the meeting" /><published>2019-02-11T00:00:00+05:30</published><updated>2019-02-11T00:00:00+05:30</updated><id>/2019/02/11/Minutes-of-the-meeting</id><content type="html" xml:base="/2019/02/11/Minutes-of-the-meeting.html">&lt;ol&gt;
-  &lt;li&gt;Theme “Nostalgia of Colours” - reminiscing the past which made the present colourful, colours which make ys nostalgia, any nostalgic experience/event and the colour it can be coded in&lt;/li&gt;
-  &lt;li&gt;Topics chosen by writers&lt;/li&gt;
-  &lt;li&gt;Changing orientation of “Editor’s Note”&lt;/li&gt;
-  &lt;li&gt;Encouraging more than one article per author&lt;/li&gt;
-  &lt;li&gt;Encouraging articles on “All things KMIT”&lt;/li&gt;
-  &lt;li&gt;Encouraging happy vibe articles.&lt;/li&gt;
-  &lt;li&gt;Dates for
-    &lt;ul&gt;
-      &lt;li&gt;Article deadline submission: 28th Feb&lt;/li&gt;
-      &lt;li&gt;Edition goes live: 8th March&lt;/li&gt;
-      &lt;li&gt;Orientation for 1st years: 11th March&lt;/li&gt;
-      &lt;li&gt;Writers’ Recruitment test: 13th March&lt;/li&gt;
-      &lt;li&gt;Developers’ Test: 18th March&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Choose catchy titles and introductions&lt;/li&gt;
-  &lt;li&gt;Take credentials of website&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="minutes" /><summary type="html">Theme “Nostalgia of Colours” - reminiscing the past which made the present colourful, colours which make ys nostalgia, any nostalgic experience/event and the colour it can be coded in Topics chosen by writers Changing orientation of “Editor’s Note” Encouraging more than one article per author Encouraging articles on “All things KMIT” Encouraging happy vibe articles. Dates for Article deadline submission: 28th Feb Edition goes live: 8th March Orientation for 1st years: 11th March Writers’ Recruitment test: 13th March Developers’ Test: 18th March Choose catchy titles and introductions Take credentials of website</summary></entry><entry><title type="html">Minutes of the meeting</title><link href="/2019/01/19/Minute-of-the-meeting.html" rel="alternate" type="text/html" title="Minutes of the meeting" /><published>2019-01-19T00:00:00+05:30</published><updated>2019-01-19T00:00:00+05:30</updated><id>/2019/01/19/Minute-of-the-meeting</id><content type="html" xml:base="/2019/01/19/Minute-of-the-meeting.html">&lt;ol&gt;
-  &lt;li&gt;The core team has been dissolved. All members of kMITRA are under one team.&lt;/li&gt;
-  &lt;li&gt;Fiascle free communication and attendence at every meeting is vital to work as a team.&lt;/li&gt;
-  &lt;li&gt;New mentors and mentees have been assigned.&lt;/li&gt;
-  &lt;li&gt;Context filterisation emphasized.&lt;/li&gt;
-  &lt;li&gt;Reminder be active no social media account groups.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="minutes" /><summary type="html">The core team has been dissolved. All members of kMITRA are under one team. Fiascle free communication and attendence at every meeting is vital to work as a team. New mentors and mentees have been assigned. Context filterisation emphasized. Reminder be active no social media account groups.</summary></entry></feed>
+&lt;/table&gt;</content><author><name></name></author><category term="minutes" /><summary type="html">Agenda: First Years recruitment orientation</summary></entry></feed>
