@@ -1,6 +1,8 @@
 ---
 layout: post
 date: 2019-07-14
+tags: Documentation
+categories: [Documentation]
 title: "Logging in"
 ---
 

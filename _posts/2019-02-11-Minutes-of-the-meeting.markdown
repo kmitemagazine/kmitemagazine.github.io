@@ -2,6 +2,7 @@
 layout: post
 title: Minutes of the meeting
 tags: minutes
+categories: [Minutes of the meeting]
 date: 2019-02-11
 ---
 

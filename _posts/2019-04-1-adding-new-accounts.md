@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Adding new accounts"
+tags: Documentation
+categories: [Documentation]
 date: 2019-04-01 22:12:15 +0530
 ---
 1. You must have received an email with login details. Go to

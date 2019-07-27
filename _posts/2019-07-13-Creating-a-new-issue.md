@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Creating a new issue"
+tags: Documentation
+categories: [Documentation]
 date: 2019-07-11
 ---
 1. Go to dashboard -> Articles -> Issues

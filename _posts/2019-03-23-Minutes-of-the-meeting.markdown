@@ -2,6 +2,7 @@
 layout: post
 title: Minutes of the meeting
 date: 2019-03-23
+categories: [Minutes of the meeting]
 tags: minutes
 ---
   1. Introduction of new first year recruits.

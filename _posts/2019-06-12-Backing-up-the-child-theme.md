@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Backing up child theme"
+tags: Documentation
+categories: [Documentation]
 date: 2019-06-12
 ---
 1. Login using your credentials at [kmit.in/emagazine/wp-admin/](http://kmit.in/emagazine/wp-login.php?redirect_to=http%3A%2F%2Fkmit.in%2Femagazine%2Fwp-admin%2F&reauth=1)

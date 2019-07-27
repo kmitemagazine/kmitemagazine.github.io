@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Using Jekyll"
+tags: Documentation
+categories: [Documentation]
 date: 2019-06-12 
 ---
 
