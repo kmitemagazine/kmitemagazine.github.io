@@ -16,7 +16,7 @@ date: 2019-06-12
        * Branch ‘sources’ set up to track remote branch ‘sources’ from ‘origin’
  
   6. Move the _site subdirectory into current directory using `mv ../_site ./`
-  7. Add a new blog post. See this for help regarding writing a blog post. Please use markdown only.
+  7. Add a new blog post. See [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for help regarding writing a blog post. Please use markdown only.
   8. After writing a blog post, change to temp/kmitemagazine.github.io directory and enter `jekyll build`
   9. While in "temp/kmitemagazine.github.io" directory, add and commit new blog post to git using "git add _posts/YEAR-MONTH-DAY-title.markdown" and `git commit -m “add new blog post etc“`. Please use a more descriptive commit message.
   10. Now enter the _site directory, add and commit all changes using `git add *` and `git commit -m “added new blog post etc”`. Once again, use a descriptive commit message.
