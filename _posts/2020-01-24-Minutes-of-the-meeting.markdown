@@ -6,8 +6,11 @@ categories: [Minutes of the meeting]
 date: 2020-01-24
 ---
 
-### Agenda: 
+### Agenda : 
 * Discuss about the previous edition as well as brainstorm ideas for the new edition. 
+
+
+
 
 
 ### New Guidelines :
