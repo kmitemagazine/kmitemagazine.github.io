@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 07-09-2019 
-categories: Documentation
+tags: Documentation
+categories: [Documentation]
 title: Popup Maker
 ---
 

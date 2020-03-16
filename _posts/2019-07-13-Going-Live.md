@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Going Live"
+tags: Documentation
+categories: [Documentation]
 date: 2019-07-11 
 ---
 1. Change status of Issue

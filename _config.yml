@@ -26,7 +26,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-gems: 
+plugins: 
   - jekyll-google_cse
 google_cse_id: "004894546815994369900:h5v1h2qo0gg"
 
