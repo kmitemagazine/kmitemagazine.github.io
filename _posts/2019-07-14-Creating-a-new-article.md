@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Creating a new article"
+tags: Documentation
+categories: [Documentation]
 date: 2019-07-14
 ---
 
