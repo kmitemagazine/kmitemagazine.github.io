@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minutes of the meeting"
-date: 2018-08-14 22:12:15 +0530
+date: 2018-08-14
 categories: [Minutes of the meeting]
 tags: "minutes"
 ---
