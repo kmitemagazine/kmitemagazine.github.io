@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-25T14:16:49+05:30</updated><id>/feed.xml</id><title type="html">kMITRA e-Magazine</title><subtitle>The official e-magazine for Keshav Memorial Institute of Technology</subtitle><entry><title type="html">Minutes of the meeting</title><link href="/minutes%20of%20the%20meeting/2020/02/22/minutes-of-meeting.html" rel="alternate" type="text/html" title="Minutes of the meeting" /><published>2020-02-22T00:00:00+05:30</published><updated>2020-02-22T00:00:00+05:30</updated><id>/minutes%20of%20the%20meeting/2020/02/22/minutes-of-meeting</id><content type="html" xml:base="/minutes%20of%20the%20meeting/2020/02/22/minutes-of-meeting.html">&lt;h3 id=&quot;discussed-in-the-meeting&quot;&gt;Discussed in the meeting:&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-25T15:41:39+05:30</updated><id>/feed.xml</id><title type="html">kMITRA e-Magazine</title><subtitle>The official e-magazine for Keshav Memorial Institute of Technology</subtitle><entry><title type="html">Minutes of the meeting</title><link href="/minutes%20of%20the%20meeting/2020/02/22/minutes-of-meeting.html" rel="alternate" type="text/html" title="Minutes of the meeting" /><published>2020-02-22T00:00:00+05:30</published><updated>2020-02-22T00:00:00+05:30</updated><id>/minutes%20of%20the%20meeting/2020/02/22/minutes-of-meeting</id><content type="html" xml:base="/minutes%20of%20the%20meeting/2020/02/22/minutes-of-meeting.html">&lt;h3 id=&quot;discussed-in-the-meeting&quot;&gt;Discussed in the meeting:&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Mentor-Mentee assignment&lt;/li&gt;
   &lt;li&gt;Article idea discussion&lt;/li&gt;
@@ -69,9 +69,16 @@ The team decided that Meghana and Abhay will be the editors for the next edition
   &lt;li&gt;Hit “Add New Issues”&lt;/li&gt;
 &lt;/ol&gt;</content><author><name></name></author><category term="Documentation" /><summary type="html">Go to dashboard -&amp;gt; Articles -&amp;gt; Issues Set name to Issue [number] and slug to issue-[number] Hit “Add New Issues”</summary></entry><entry><title type="html">Going Live</title><link href="/documentation/2019/07/11/Going-Live.html" rel="alternate" type="text/html" title="Going Live" /><published>2019-07-11T00:00:00+05:30</published><updated>2019-07-11T00:00:00+05:30</updated><id>/documentation/2019/07/11/Going-Live</id><content type="html" xml:base="/documentation/2019/07/11/Going-Live.html">&lt;p&gt;-&amp;gt; Go to Articles -&amp;gt; Issues -&amp;gt; IssueNumber -&amp;gt; Issue Status = Live&lt;/p&gt;
 
-&lt;p&gt;-&amp;gt; Go to Articles -&amp;gt; Articles and then do the following
-	* Hover over the title of the article and set Status = Published and hit Update
-	* Repeat the above point for all the articles&lt;/p&gt;
+&lt;p&gt;-&amp;gt; Go to Articles -&amp;gt; Articles and then do the following&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hover over the title of the article and set Status = Published and hit Update&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Repeat the above point for all the articles&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;NOTE : Articles are published in STACK order which follows LIFO principle. So, the first article that gets published appears on the bottom of the homepage. Editorial should be published last.&lt;/p&gt;</content><author><name></name></author><category term="Documentation" /><summary type="html">-&amp;gt; Go to Articles -&amp;gt; Issues -&amp;gt; IssueNumber -&amp;gt; Issue Status = Live</summary></entry><entry><title type="html">Using Jekyll</title><link href="/documentation/2019/06/12/Using-Jekyll.html" rel="alternate" type="text/html" title="Using Jekyll" /><published>2019-06-12T00:00:00+05:30</published><updated>2019-06-12T00:00:00+05:30</updated><id>/documentation/2019/06/12/Using-Jekyll</id><content type="html" xml:base="/documentation/2019/06/12/Using-Jekyll.html">&lt;ol&gt;
   &lt;li&gt;Fork the &lt;a href=&quot;https://github.com/kmitemagazine/kmitemagazine.github.io&quot;&gt;kmitemagazine.github.io&lt;/a&gt; repository onto your profile. For instance, I would fork it onto my profile, “iambrj”.&lt;/li&gt;
