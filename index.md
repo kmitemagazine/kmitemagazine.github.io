@@ -8,6 +8,7 @@ layout: default
 
 {% google_cse %}
 
+
 <h1>Home</h1>
 
 
@@ -24,6 +25,7 @@ layout: default
   {% endif %}
 {% assign categories_list = nil %}
 </ul>
+
 
 {% for category in site.categories %}
   <h3 id="{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</h3>
