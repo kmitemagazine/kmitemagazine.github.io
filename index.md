@@ -9,8 +9,7 @@ layout: default
 {% google_cse %}
 
 
-<h1>Home</h1>
-
+# Home
 
 <ul>
 {% assign categories_list = site.categories %}
